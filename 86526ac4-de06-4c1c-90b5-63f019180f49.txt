@@ -8,5 +8,3 @@ keyboard: 1Life kb:flow -> €6
 mouse: Logitech B100 1000DPI -> €11
 mousepad: Gembird GMB Gaming L -> €5
 headphones: Sony MDR-E9LPB -> €7
-
-7d9d25a8-d1c9-4a7a-b26d-51c04250baba
